@@ -1,2 +1,2 @@
-# acc_dart_lib
-Provides access to an installation of Assetto Corsa Competizion on Windows
+# ACC Dart Lib
+Provides access to the data maintained by an installation of Assetto Corsa Competizione (ACC) on Windows
